@@ -1,4 +1,4 @@
-## 你说得对，但是HENU的软件学院院长季波认为我们HENU在十年内会重回TOP40
+## 一名普通的计算机科学大一学生
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ESP-8266-offical)
